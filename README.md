@@ -8,8 +8,8 @@
 <img src="https://github.com/waleedjmm/gpt3-application/blob/main/Chatbot.png" />
 <br />
 
-<h2> Changing the hyperparameters and selecting machine learning/ deep learning model: </h2>  
-<img src="https://github.com/waleedjmm/crypto-price-forecasting/blob/main/2.png" />
+<h2> DALL-E Text to Image Module: </h2>  
+<img src="https://github.com/waleedjmm/gpt3-application/blob/main/DALL-E.png" />
 <br />
 
 <h2> Output Chart with original and forecasted value and evaluation metrics </h2>  
