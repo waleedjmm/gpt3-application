@@ -12,5 +12,5 @@
 <img src="https://github.com/waleedjmm/gpt3-application/blob/main/DALL-E.png" />
 <br />
 
-<h2> Output Chart with original and forecasted value and evaluation metrics </h2>  
-<img src="https://github.com/waleedjmm/crypto-price-forecasting/blob/main/3.png" />
+<h2> Question/Answering and Interview Preparation Module: </h2>  
+<img src="https://github.com/waleedjmm/gpt3-application/blob/main/Question%20Asnwering.png" />
