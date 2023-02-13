@@ -3,9 +3,9 @@
 
 
 
-<h2> Uploading the crypto/ trade data: </h2>
+<h2> Chatbot using ChatGPT format: </h2>
 
-<img src="https://github.com/waleedjmm/crypto-price-forecasting/blob/main/1.png" />
+<img src="https://github.com/waleedjmm/gpt3-application/blob/main/Chatbot.png" />
 <br />
 
 <h2> Changing the hyperparameters and selecting machine learning/ deep learning model: </h2>  
